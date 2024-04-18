@@ -10,4 +10,4 @@ Wayland compositors do not offer any sort of clipboard persistence/management by
 * Simply run this script. A more permanent solution would be to run from your WM/DE autostart configuration, add to your ``PATH`` variable, or distribution ``/bin`` folder.
 
 **Example for Sway config:**<br/>
-``exec /path/to/cliphist-persist.sh``
+``exec /path/to/clipman-persist.sh``
